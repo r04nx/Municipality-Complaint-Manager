@@ -1,0 +1,30 @@
+ td {
+    border: 1px solid;
+    padding: 5px;
+    font-family: Consolas;
+    background-color: rgb(255, 73, 73);
+
+  }
+
+  table, th{
+    border: 1px solid;
+    padding: 5px;
+    font-family: Consolas;
+    /* background-color: rgb(255, 73, 73); */
+  }
+
+  #clear {
+    color: white;
+    font-size: 0%;
+  }
+
+#Column {
+    
+    background-color: rgb(62, 149, 255);
+}
+
+tr::hover {
+    background-color: lightskyblue;
+  }
+
+
