@@ -44,6 +44,7 @@
 		<li>Modify the database connection settings in the <code>db.php</code> file</li>
 		<li>Start the Apache server and open your web browser</li>
 		<li>Go to <code>http://localhost/municipality-complaint-manager</code></li>
+		<li>Default admin credentials are usename:admin , password:password</li>
 	</ol>
 	<h2>How to Use</h2>
 	<ol>
