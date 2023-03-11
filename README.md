@@ -8,6 +8,10 @@
 		<li>Admin dashboard for municipality corporation employees</li>
 		<li>Complaint list with search and filter functionality</li>
 		<li>Expense tracking for each complaint</li>
+		<li>Admin login to add new users</li>
+  <li>Certificate generation feature for citizens based on the number of complaints they have submitted</li>
+  <li>Ability to email the certificate of appreciation to the citizen</li>
+  <li>Unique certificate id for each certificate to verify its authenticity</li>
 	</ul>
 	<h2>Technologies Used</h2>
 	<ul>
@@ -47,4 +51,10 @@
 		<li>Employees can log in to the application using their credentials</li>
 		<li>Employees can view all complaints, track expenses, and perform various actions on complaints</li>
 	</ol>
+	
+	<h2>How to Use</h2>
+	
+
+<p>Municipality Complaint Manager is an easy-to-use web application that simplifies the process of registering complaints to the municipality corporation. It provides a user-friendly interface to the citizens, and helps the municipality corporation to efficiently manage the complaints and expenses. The certificate generation feature is a unique addition to appreciate the citizens for their efforts in keeping the city clean and maintained.</p>
+	
 </body>
