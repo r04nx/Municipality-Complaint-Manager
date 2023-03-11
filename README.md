@@ -52,7 +52,7 @@
 		<li>Employees can log in to the application using their credentials</li>
 		<li>Employees can view all complaints, track expenses, and perform various actions on complaints</li>
 	</ol>
-	<h2>Conclusion</h2><hr>
+	<h2>Conclusion</h2>
 <p>Municipality Complaint Manager is an easy-to-use web application that simplifies the process of registering complaints to the municipality corporation. It provides a user-friendly interface to the citizens, and helps the municipality corporation to efficiently manage the complaints and expenses. The certificate generation feature is a unique addition to appreciate the citizens for their efforts in keeping the city clean and maintained.</p>
 	
 </body>
