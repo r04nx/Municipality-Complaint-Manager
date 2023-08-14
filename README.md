@@ -2,8 +2,13 @@
 <body>
 	<h1>Municipality Complaint Manager</h1>
 	<p>Municipality Complaint Manager is a web application that simplifies the process of registering complaints to the municipality corporation. With an easy and user-friendly interface, citizens can file their complaints with just a few clicks. Moreover, the employees at the municipality corporation can log in to the application and view all the complaints, track their expenses, and perform various actions such as accepting or rejecting complaints.The certificate generation feature is a unique addition to appreciate the citizens for their efforts in keeping the city clean and maintained. <br> You can try it out<a href='http://municipality.rf.gd/cmp'> here</a></p>
-	<h2>Features</h2>
-	<ul>
+	
+![Project Screenshot](https://github.com/r04nx/municipality-complaint-manager/blob/master/assets/img/banner.jpg)
+
+
+ 
+<h2>Features</h2>
+<ul>
 		<li>User-friendly complaint registration form</li>
 		<li>Complaint status tracking for citizens</li>
 		<li>Admin dashboard for municipality corporation employees</li>
